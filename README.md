@@ -1,3 +1,6 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Piorg99/LABCAMP-WIKI)
+
+
 # Order Processing Workshop
 
 This repository contains a simple Python application for processing customer orders.
